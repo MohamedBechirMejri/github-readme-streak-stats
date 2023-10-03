@@ -15,7 +15,7 @@
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
-
+ 
 ## ⚡ Quick setup
 
 1. Copy-paste the markdown below into your GitHub profile README
