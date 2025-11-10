@@ -8,11 +8,11 @@ package-lock.json
 .vercel
 
 # Local Configuration
-package.json
 .DS_Store
 
 # Environment
 .env
+.php-version
 DOCKER_ENV
 docker_tag
 
